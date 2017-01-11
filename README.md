@@ -5,9 +5,9 @@ Convolutional Neural Network - [LeNet5](http://yann.lecun.com/exdb/lenet/) Archi
 
 The purpose of the project was to get familiar with [Keras](https://keras.io).
 
-Sample data gatherer from [The German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news).
+Sample data gathered from [The German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news).
 
-[**Jump to the notebook**](traffic-sign-classification-with-keras.ipynb)
+[**Here the complete notebook**](traffic-sign-classification-with-keras.ipynb)
 
 # Model Details
 
